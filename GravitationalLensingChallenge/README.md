@@ -24,11 +24,11 @@ In this task, we will develop and train a super-resolution model to enhance the 
 
 #### A. Multi-Class Classification
 
-The [Dataset](https://drive.google.com/file/d/1GKLETkPWy_uOwfR3UMW8YEQC4lkJa45h/view?usp=sharing) consists of three classes, strong lensing images with no substructure, CDM (cold dark matter) substructure, and axion substructure. The images have been normalized using min-max normalization, but you are free to use any normalization or data augmentation methods to improve your results.
+The [Dataset](https://drive.google.com/file/d/1AZAJzJdm6FJT4rIyY9N_6FcKLf8VZtn8/view?usp=sharing) consists of three classes, strong lensing images with no substructure, CDM (cold dark matter) substructure, and axion substructure. The images have been normalized using min-max normalization, but you are free to use any normalization or data augmentation methods to improve your results.
 
 #### B. Image Super-Resolution
 
-The [Dataset](https://drive.google.com/file/d/1lUOGo2B0Rhxwj_TGZSVEdZJ79GdI7awa/view?usp=sharing) consists of high-resolution (HR) and low-resolution (LR) pairs of strong gravitational lensing images.
+The [Dataset](https://drive.google.com/file/d/1yJBvKD4saonRfSy4r0ceuD9qzgrdrHld/view?usp=sharing) consists of high-resolution (HR) and low-resolution (LR) pairs of strong gravitational lensing images.
 
 ## Evaluation Metrics
 
@@ -83,7 +83,7 @@ We look forward to reviewing your submissions!
 
 <sup>2</sup>Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
 
-<sup>3</sup>University of Florida, Gainesville, FL 32611, USA
+<sup>3</sup>The University of Alabama in Huntsville, Huntsville, AL 35899, USA
 
 ### References
 
