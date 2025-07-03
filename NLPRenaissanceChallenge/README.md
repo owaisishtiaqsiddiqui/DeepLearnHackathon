@@ -1,49 +1,25 @@
-# RenAIssance: OCR for Seventeenth Century Spanish Texts
-<!-- ![coverImage](./cover.webp) -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/ML4SCI/DeepLearnHackathon/Renaissance/NLPRenaissanceChallenge/images/cover.webp" width="400">
-</p>
+![DeepLearn Banner](DeepLearn2024.png)
 
-## Description
-RenAIssance project encompasses the use of optical character recognition (OCR) necessary to digitize text sources that have not yet been targeted by existing tools. Its purpose is to find ways to apply machine learning techniques to make OCR possible on a variety of materials that have never been digitized before. This competition focuses on applying AI to recognize text in Spanish printed sources from the seventeenth century, an area underserved by current OCR tools. 
-**For further reference, you can go through this presentation:** [Description of the file](https://github.com/ML4SCI/DeepLearnHackathon/blob/main/NLPRenaissanceChallenge/data/Hackathon%20training%20-%20print%20irregularities.pptx)
- 
+We are pleased to announce the **DeepLearn 2024 Hackathon Competition** that will take place from **July 8-29, 2024** in a hybrid format. The competition is open to all DeepLearn participants. The hackathon will focus on applying **machine learning** techniques to a variety of realistic challenges, including those from the fields of science and humanities. 
 
-Transliteration of text from centuries-old works represents a research area that is underserved by current tools, such as Adobe Acrobat’s OCR. While these resources can perform text recognition from clearly printed modern sources, they are incapable of extracting textual data from early forms of print, much less manuscripts.
+Please find the competition poster at this link: [https://bit.ly/4eLoTu6](https://bit.ly/4eLoTu6) 
 
-## Task
-Build a model for optically recognizing the text in the given image dataset. Pick the most appropriate approach and discuss your strategy.
+The agenda for the hackathon can be found here: [https://indico.cern.ch/event/1432069/](https://indico.cern.ch/event/1432069/) 
 
-## Dataset
-- The dataset consists of a scanned Spanish textbook with 31 pages.
-- Transcriptions of the first 25 pages (ground truth) are available in a DOCX file.
-- The first 25 pages will serve as your training and evaluation data.
-- You need to submit the predicted text for the remaining 6 pages as the output of your model for testing purposes.
+Anyone interested in learning more about machine learning techniques and trying their hand at the competition is welcome. Participants are encouraged to self-organize into small teams or work on their own to devise unique solutions to the challenge(s). The participants can work on the challenges on their own schedule. The competition will run for three weeks, however only a small fraction of that time is needed to obtain competitive results. Participants will have opportunities to interact with the organizers and with each other in person, via Zoom and on Slack. The **virtual kickoff meeting** will be on **Monday, July 8 (18:00 CET)** on Zoom [https://bit.ly/3L03MX1](https://bit.ly/3L03MX1). The in-person meeting will be on **Monday, July 15 (18:00 CET)**. Please see the Hackathon Slack page for meeting details and additional information. Winners will receive certificates and prizes.
 
-## Evaluation Metrics
-Discuss which evaluation metrics you are using to evaluate your model performance. Consider the following metrics:
-- Character Error Rate (CER)
-- Word Error Rate (WER)
-- Precision, Recall, and F1 Score for recognized text
+ Interested participants can register via Slack at [https://bit.ly/3VQPUVo](https://bit.ly/3VQPUVo)
 
-## Deliverables
-- Fill out the pre- and post-hackathon surveys
-- A trained OCR model capable of recognizing text in the provided datasets.
-- Predictions of the last 6 pages of the provided book in a text file.
-- A brief report discussing the chosen approach, model architecture, training process, and evaluation results.
-- Example usage notebook demonstrating the model's performance on sample data.
-
-## Example Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqGVqVBns5HqVfXflEP_KcPVr41NuVVn?usp=sharing)
-
-## Contributors
+There are seven main challenges:
+* Higgs Boson Challenge (Classification, General)
+* Particle Images Challenge (Classification, Computer Vision)
+* Strong Lensing Challenge (Multi-class Classification, Superresolution, Computer Vision)
+* RenAIssance Challenge (NLP, transcription)
+* NMR Spin Challenge (Multi-Target Regression)
+* Exoplanet Search (Classification, Image Analysis)
+* Quantum Machine Learning (Anomaly Detection, Quantum Computing)
 
 
-- Shashank Shekhar Singh (Indian Institue of Technology, BHU)
-- Utsav Rai (Imperial College London)
-- Yukinori Yamamoto (Waseda University)
-- Arsh Khan (VJTI, Mumbai)
-- Xabier Granja (University of Alabama)
-- Sergei Gleyzer (University of Alabama)
-- Harrison Meadows (University of Tennessee)
- 
+Please find more details and example Jupyter notebooks inside each challenge folder. 
+
+Solutions are due on Monday, July 29 at 18:00 CET. Winners will receive certificates and prizes. For any questions about the ML Hackathon please contact Prof. Sergei Gleyzer sgleyzer@ua.edu 
