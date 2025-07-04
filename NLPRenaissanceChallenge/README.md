@@ -15,35 +15,33 @@ Transliteration of text from centuries-old works represents a research area that
 Build a model for optically recognizing the text in the given image dataset. Pick the most appropriate approach and discuss your strategy.
 
 ## Dataset
-- The dataset consists of a scanned Spanish textbook with 31 pages.
+- The dataset consists of two scanned Spanish textbooks with 31 pages each.
 - Transcriptions of the first 25 pages (ground truth) are available in a DOCX file.
 - The first 25 pages will serve as your training and evaluation data.
 - You need to submit the predicted text for the remaining 6 pages as the output of your model for testing purposes.
 
 ## Evaluation Metrics
-Discuss which evaluation metrics you are using to evaluate your model performance. Consider the following metrics:
-- Character Error Rate (CER)
-- Word Error Rate (WER)
-- Precision, Recall, and F1 Score for recognized text
+- Please see the attached PDF with the exact evaluation metrics and the evaluation pipeline.
 
 ## Deliverables
 - Fill out the pre- and post-hackathon surveys
 - A trained OCR model capable of recognizing text in the provided datasets.
-- Predictions of the last 6 pages of the provided book in a text file.
+- Predictions of the last 6 pages of the provided books (SEE EVALUATION GUIDELINES)
 - A brief report discussing the chosen approach, model architecture, training process, and evaluation results.
 - Example usage notebook demonstrating the model's performance on sample data.
 
 ## Example Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WqGVqVBns5HqVfXflEP_KcPVr41NuVVn?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/RenAIssance/NLPRenaissanceChallenge/Sample_Notebook.ipynb)
 
 ## Contributors
 
-
 - Shashank Shekhar Singh (Indian Institue of Technology, BHU)
 - Utsav Rai (Imperial College London)
+- Kate O'Reilly (Trinity College Dublin)
 - Yukinori Yamamoto (Waseda University)
+- Pranav Kulkarni (Indian Institute of Technology, Bombay)
 - Arsh Khan (VJTI, Mumbai)
+- Saarthak Gupta (Indian Institute of Technology, BHU)
 - Xabier Granja (University of Alabama)
 - Sergei Gleyzer (University of Alabama)
 - Harrison Meadows (University of Tennessee)
- 
