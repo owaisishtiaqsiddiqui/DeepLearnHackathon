@@ -1,25 +1,47 @@
-![Deeplearn Banner](HackathonPosterDeepLearn2025_short.png)
+# RenAIssance: OCR for Seventeenth Century Spanish Texts
+<!-- ![coverImage](./cover.webp) -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/ML4SCI/DeepLearnHackathon/Renaissance/NLPRenaissanceChallenge/images/cover.webp" width="400">
+</p>
 
-We are pleased to announce the **DeepLearn 2025 Hackathon Competition** that will take place from **July 7-31, 2025** in a hybrid format. The competition is open to all DeepLearn participants. The hackathon will focus on applying **machine learning** techniques to a variety of realistic challenges, including those from the fields of science and humanities. 
+## Description
+RenAIssance project encompasses the use of optical character recognition (OCR) necessary to digitize text sources that have not yet been targeted by existing tools. Its purpose is to find ways to apply machine learning techniques to make OCR possible on a variety of materials that have never been digitized before. This competition focuses on applying AI to recognize text in Spanish printed sources from the seventeenth century, an area underserved by current OCR tools. 
+**For further reference, you can go through this presentation:** [Description of the file](https://github.com/ML4SCI/DeepLearnHackathon/blob/main/NLPRenaissanceChallenge/data/Hackathon%20training%20-%20print%20irregularities.pptx)
+ 
 
-<!-- Please find the competition poster at [this link](https://bit.ly/4eLoTu6) -->
+Transliteration of text from centuries-old works represents a research area that is underserved by current tools, such as Adobe Acrobat’s OCR. While these resources can perform text recognition from clearly printed modern sources, they are incapable of extracting textual data from early forms of print, much less manuscripts.
 
-<!-- The agenda for the hackathon can be found here: [https://indico.cern.ch/event/1432069/](https://indico.cern.ch/event/1432069/) -->
+## Task
+Build a model for optically recognizing the text in the given image dataset. Pick the most appropriate approach and discuss your strategy.
 
-Anyone interested in learning more about machine learning techniques and trying their hand at the competition is welcome. Participants are encouraged to self-organize into small teams or work on their own to devise unique solutions to the challenge(s). The participants can work on the challenges on their own schedule. The competition will run for three weeks, however only a small fraction of that time is needed to obtain competitive results. Participants will have opportunities to interact with the organizers and with each other in person, via Zoom and on Slack. The **virtual kickoff meeting** will be on **Monday, July 7 (17:00 CET)** on [Zoom](https://ua-edu.zoom.us/j/83389981726?pwd=YUfkyzuqXhI1gq5YydKd8wSEqDO0kN.1). The in-person meeting will be on **Monday, July 21st (18:00 CET)**. Please see the Hackathon Slack page for meeting details and additional information. Winners will receive certificates and prizes.
+## Dataset
+- The dataset consists of two scanned Spanish textbooks with 31 pages each.
+- Transcriptions of the first 25 pages (ground truth) are available in a DOCX file.
+- The first 25 pages will serve as your training and evaluation data.
+- You need to submit the predicted text for the remaining 6 pages as the output of your model for testing purposes.
 
- Interested participants can register via Slack at [here](https://join.slack.com/t/deeplearn2025/shared_invite/zt-37ui86edf-9mE3_Myw231FdaS5UlGyDw).
+## Evaluation Metrics
+- Please see the attached PDF with the exact evaluation metrics and the evaluation pipeline.
 
-There are seven main challenges:
-* Higgs Boson Challenge (Classification, General)
-* Particle Images Challenge (Classification, Computer Vision)
-* Strong Lensing Challenge (Multi-class Classification, Superresolution, Computer Vision)
-* RenAIssance Challenge (NLP, transcription)
-* NMR Spin Challenge (Multi-Target Regression)
-* Exoplanet Search (Classification, Image Analysis)
-* Quantum Machine Learning (Anomaly Detection, Quantum Computing)
+## Deliverables
+- Fill out the pre- and post-hackathon surveys
+- A trained OCR model capable of recognizing text in the provided datasets.
+- Predictions of the last 6 pages of the provided book (SEE EVALUATION GUIDELINES)
+- A brief report discussing the chosen approach, model architecture, training process, and evaluation results.
+- Example usage notebook demonstrating the model's performance on sample data.
 
+## Example Notebook
+[![Open In Colab](https://colab.research.google.com/drive/1IWyJcspEUCLPhPJvUsbMsSYrS8slzSEr?usp=sharing)]
 
-Please find more details and example Jupyter notebooks inside each challenge folder. 
+## Contributors
 
-Solutions are due on Monday, July 28 at 18:00 CET. Winners will receive certificates and prizes.
+- Shashank Shekhar Singh (Indian Institue of Technology, BHU)
+- Utsav Rai (Imperial College London)
+- Kate O'Reilly (Trinity College Dublin)
+- Yukinori Yamamoto (Waseda University)
+- Pranav Kulkarni (Indian Institute of Technology, Bombay)
+- Arsh Khan (VJTI, Mumbai)
+- Saarthak Gupta (Indian Institute of Technology, BHU)
+- Xabier Granja (University of Alabama)
+- Sergei Gleyzer (University of Alabama)
+- Harrison Meadows (University of Tennessee)
