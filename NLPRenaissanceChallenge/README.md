@@ -31,7 +31,7 @@ Build a model for optically recognizing the text in the given image dataset. Pic
 - Example usage notebook demonstrating the model's performance on sample data.
 
 ## Example Notebook
-https://colab.research.google.com/drive/1IWyJcspEUCLPhPJvUsbMsSYrS8slzSEr?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/RenAIssance/NLPRenaissanceChallenge/Sample_Notebook.ipynb)
 
 ## Contributors
 
