@@ -26,7 +26,7 @@ Build a model for optically recognizing the text in the given image dataset. Pic
 ## Deliverables
 - Fill out the pre- and post-hackathon surveys
 - A trained OCR model capable of recognizing text in the provided datasets.
-- Predictions of the last 6 pages of the provided book (SEE EVALUATION GUIDELINES)
+- Predictions of the last 6 pages of the provided books (SEE EVALUATION GUIDELINES)
 - A brief report discussing the chosen approach, model architecture, training process, and evaluation results.
 - Example usage notebook demonstrating the model's performance on sample data.
 
