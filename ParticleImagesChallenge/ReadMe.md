@@ -34,3 +34,4 @@ The model performance will be tested on a hidden test dataset based on the above
 * Shravan Chaudhari (Birla Institute of Technology & Science - Pilani, Goa Campus, India)   
 * Purva Chaudhari (Vishwakarma Institute of Technology, India)
 * Eric Reinhardt (Department of Physics & Astronomy, University of Alabama)
+* Marco Knipfer (Department of Physics & Astronomy, University of Alabama)
