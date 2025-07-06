@@ -159,3 +159,4 @@ Note that RKKY is a harder problem.
 - D. E. Feldman (Brown Theoretical Physics Center)
 - C. Ramanathan (Dartmouth College)
 - Eric Reinhardt (The University of Alabama)
+- Marco Knipfer (The University of Alabama)
