@@ -35,4 +35,4 @@ Sergei V. Gleyzer (University of Alabama)
 
 Eric Reinhardt (University of Alabama)
 
-Marco Knipfer (Friedrich-Alexander-Universität Erlangen-Nürnberg)
+Marco Knipfer (University of Alabama)
