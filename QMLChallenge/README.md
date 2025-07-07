@@ -5,7 +5,7 @@
   <img width='auto' height=300 src="https://prefetch.eu/know/concept/bloch-sphere/sketch-full.png?v=1">
 </div>
 
-The goal of the challenge is to use a quantum machine learning model to perform classification on the Higgs Boson dataset. We original dataset is available at [UCI Machine learning Repository](https://archive.ics.uci.edu/dataset/280/higgs) containing 11 million labelled samples. Afterwards, we want to use the model to classify Higgs vs background events using a test dataset.
+The goal of the challenge is to use a quantum machine learning model to perform classification on the Higgs Boson dataset. The original dataset is available at [UCI Machine learning Repository](https://archive.ics.uci.edu/dataset/280/higgs) containing 11 million labelled samples. Afterwards, we want to use the model to classify Higgs vs background events using a test dataset.
 
 
 ## Dataset
