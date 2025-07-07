@@ -41,9 +41,9 @@ Submissions are evaluated based on **ROC AUC** on a hidden test set.
 
 We provide few example notebooks to get started.
 
-1. Hands-on Quantum Computing with PennyLane [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/Quantum_Computing_Warmup.ipynb)
-2. Using a Quantum Neural Network (QNN) for binary classification on a Toy dataset (Iris flower data set) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/Quantum_Computing_Warmup%20-%202.ipynb).
-3. Using a Classical Neural Network for binary classification on Higgs Boson Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/QML%20Challenge.ipynb).
+1. Hands-on Quantum Computing with PennyLane [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/Quantum_Computing_Warmup.ipynb)
+2. Using a Quantum Neural Network (QNN) for binary classification on a Toy dataset (Iris flower data set) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/Quantum_Computing_Warmup%20-%202.ipynb).
+3. Using a Classical Neural Network for binary classification on Higgs Boson Dataset. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/main/QMLChallenge/QML%20Challenge.ipynb).
 
 **Note:** `QML Challenge.ipynb` uses a classical neural network but the submission must use a QNN.
 
