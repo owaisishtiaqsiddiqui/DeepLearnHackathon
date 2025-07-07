@@ -1,7 +1,7 @@
 # RenAIssance: OCR for Seventeenth Century Spanish Texts
 <!-- ![coverImage](./cover.webp) -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/ML4SCI/DeepLearnHackathon/Renaissance/NLPRenaissanceChallenge/images/cover.webp" width="400">
+<img src="https://raw.githubusercontent.com/ML4SCI/DeepLearnHackathon/main/NLPRenaissanceChallenge/images/cover.webp" width="400">
 </p>
 
 ## Description
@@ -31,7 +31,7 @@ Build a model for optically recognizing the text in the given image dataset. Pic
 - Example usage notebook demonstrating the model's performance on sample data.
 
 ## Example Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/RenAIssance/NLPRenaissanceChallenge/Sample_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ML4SCI/DeepLearnHackathon/blob/main/NLPRenaissanceChallenge/Sample_Notebook.ipynb)
 
 ## Contributors
 
