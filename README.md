@@ -23,4 +23,4 @@ There are seven main challenges:
 
 Please find more details and example Jupyter notebooks inside each challenge folder. 
 
-Solutions are due on Monday, July 28 at 18:00 CET. Winners will receive certificates and prizes.
+Solutions are due on Monday, July 31st at 18:00 CET. Winners will receive certificates and prizes.
