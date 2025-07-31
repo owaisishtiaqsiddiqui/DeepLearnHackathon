@@ -3,6 +3,6 @@
 # Team Name: Hybrids
 **Team Members**
 - Owais Ishtiaq Siddiqui
-- Abdullajh Kazi
+- Abdullah Kazi
 - Hussien Shiri
 
