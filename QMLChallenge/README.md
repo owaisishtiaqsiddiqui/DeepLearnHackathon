@@ -1,3 +1,10 @@
+# Team Name: Hybrids
+**Team Members**
+- Owais Ishtiaq Siddiqui
+- Abdullajh Qazi
+- Hussian Sheri
+
+
 # QML Challenge
 
 <div align = "center">
